@@ -8,4 +8,4 @@ Customer intelligence case study on H&M's public Kaggle data (31.8M purchases). 
 
 **Tools:** DuckDB · SQL · Python · Parquet
 
-[Phase 1 report](reports/Phase1_Report.pdf)
+[Phase 1 report](/Reports/H&M_phase1_report.pdf)
